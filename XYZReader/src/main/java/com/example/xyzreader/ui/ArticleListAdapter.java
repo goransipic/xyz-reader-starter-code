@@ -1,8 +1,10 @@
 package com.example.xyzreader.ui;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.database.Cursor;
 import android.graphics.Bitmap;
+import android.support.v4.app.ActivityOptionsCompat;
 import android.support.v7.graphics.Palette;
 import android.support.v7.widget.RecyclerView;
 import android.text.format.DateUtils;
